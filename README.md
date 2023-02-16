@@ -6,6 +6,4 @@
 
 ## updating from remote
 
-## another update from remote
-
-## another another update from remote
+## demo for conflict updates.
